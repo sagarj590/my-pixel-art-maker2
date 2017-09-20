@@ -1,0 +1,2 @@
+# my-pixel-art-maker2
+Single page application using javascript. This project is a part of my nanodegree program i which i have created a dynamic grid layout that can be assigned colours. In this repository, the javascript makes use of "for...while" loops and event listeners to create a pixel art maker like application having grid box or cells to create any graphic image using various colors from the color picker/palette.  I leaned how to use the jQuery and creating loops to perform certain functions.
